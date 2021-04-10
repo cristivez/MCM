@@ -1,0 +1,55 @@
+{
+   "channel":"Twitter",
+   "monthly_fees":[
+      {
+         "price":170,
+         "currency":"EUR",
+          "details":[
+            "10-15 listings",
+            "Campaign setup",
+            "Campaign auctioning",
+            "Targeted tweets",
+            "Email support",
+            "Admin and optimising",
+            "Monthly reports"
+         ]
+      },
+      {
+         "price":250,
+         "currency":"EUR",
+         "details":[
+            "15-20 listings",
+            "Campaign setup",
+            "Campaign auctioning",
+            "Targeted tweets",
+            "Email support",
+            "Admin and optimising",
+            "Monthly reports",
+            "Phone support"
+         ]
+      },
+      {
+         "price":120,
+         "currency":"EUR",
+         "details":[
+            "5-10 listings",
+            "Campaign setup",
+            "Campaign auctioning",
+            "Targeted tweets",
+            "Email support",
+            "Admin and optimising"
+         ]
+      },
+      {
+         "price":80,
+         "currency":"EUR",
+         "details":[
+            "1-5 listings",
+            "Campaign setup",
+            "Campaign auctioning",
+            "Targeted tweets",
+            "Email support"
+         ]
+      }
+   ]
+}

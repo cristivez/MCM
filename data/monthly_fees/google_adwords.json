@@ -1,0 +1,39 @@
+{
+   "channel":"Google AdWords",
+   "monthly_fees":[
+      {
+         "price":150,
+         "currency":"EUR",
+         "details":[
+            "3 optimizations",
+            "Campaign setup",
+            "Content creation",
+            "Admin and monitoring",
+            "Email support"
+         ]
+      },
+      {
+         "price":230,
+         "currency":"EUR",
+         "details":[
+            "5 optimizations",
+            "Campaign setup",
+            "Content creation",
+            "Admin and monitoring",
+            "Monthly reports",
+            "Email support",
+            "Phone support"
+         ]
+      },
+      {
+         "price":90,
+         "currency":"EUR",
+         "details":[
+            "1 optimization",
+            "Campaign setup",
+            "Content creation",
+            "Email support"
+         ]
+      }
+   ]
+}

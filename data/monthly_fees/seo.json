@@ -1,0 +1,64 @@
+{
+   "channel":"SEO",
+   "monthly_fees":[
+      {
+         "price":270,
+         "currency":"EUR",
+         "details":[
+            "Scope setup",
+            "Market research",
+            "Keyword research",
+            "Content analysis",
+            "Hyperlinks analysis",
+            "Local SEO",
+            "Website optimization",
+            "Backling setup",
+            "Campaign analysis",
+            "Email support"
+         ]
+      },
+      {
+         "price":320,
+         "currency":"EUR",
+         "details":[
+            "Scope setup",
+            "Market research",
+            "Keyword research",
+            "Content analysis",
+            "Hyperlinks analysis",
+            "Local SEO",
+            "Audit SEO",
+            "Website optimization",
+            "Backling setup",
+            "Campaign analysis",
+            "Email support"
+         ]
+      },
+      {
+         "price":180,
+         "currency":"EUR",
+         "details":[
+            "Scope setup",
+            "Market research",
+            "Keyword research",
+            "Content analysis",
+            "Hyperlinks analysis",
+            "Local SEO",
+            "Backling setup",
+            "Email support"
+         ]
+      },
+      {
+         "price":110,
+         "currency":"EUR",
+         "details":[
+            "Scope setup",
+            "Market research",
+            "Keyword research",
+            "Content analysis",
+            "Local SEO",
+            "Email support"
+         ]
+      }
+   ]
+}

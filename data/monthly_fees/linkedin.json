@@ -1,0 +1,51 @@
+{
+   "channel":"Linkedin",
+   "monthly_fees":[
+      {
+         "price":150,
+         "currency":"EUR",
+         "details":[
+            "5-8 listings",
+            "Campaign setup",
+            "Admin and optimising",
+            "Email support",
+            "Monitoring",
+            "Monthly reports"
+         ]
+      },
+      {
+         "price":180,
+         "currency":"EUR",
+         "details":[
+            "8-10 listings",
+            "Campaign setup",
+            "Admin and optimising",
+            "Email support",
+            "Monitoring",
+            "Monthly reports",
+            "Phone support"
+         ]
+      },
+      {
+         "price":90,
+         "currency":"EUR",
+         "details":[
+            "1-3 listings",
+            "Campaign setup",
+            "Admin and optimising",
+            "Email support",
+            "Monthly reports"
+         ]
+      },
+      {
+         "price":60,
+         "currency":"EUR",
+         "details":[
+            "1-2 listings",
+            "Campaign setup",
+            "Admin and optimising",
+            "Email support"
+         ]
+      }
+   ]
+}
